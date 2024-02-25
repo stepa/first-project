@@ -1,0 +1,11 @@
+body {
+  box-sizing: border-box;
+  font-family: arial, sans-serif; 
+  background-color: rgb(230, 230, 230);
+  padding: 50px;
+  }
+
+h1 {
+  box-sizing: border-box;
+  font-family: arial, sans-serif;
+  }
